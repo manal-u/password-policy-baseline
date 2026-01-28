@@ -15,13 +15,8 @@ This project documents a baseline review of password-related settings on a Windo
 
 ## Implementation (Step-by-Step)
 1. Opened the **Start** menu, searched for **Windows Security**, and launched the application to access security settings.  
-   *(Evidence: `/proof/01-windows-security-home.png`)*
-
 2. Navigated to **Account protection** and opened **Sign-in options** to review authentication controls relevant to password security.  
-   *(Evidence: `/proof/02-sign-in-options.png`)*
-
 3. Opened the **Password** section and reviewed password-related requirements and sign-in behavior enforced by the system (including password rules and sign-in requirements).  
-   *(Evidence: `/proof/03-password-settings.png`)*
 
 ## Proof of Work
 Evidence screenshots are stored in `/proof`:
